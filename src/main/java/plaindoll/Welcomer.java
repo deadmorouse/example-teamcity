@@ -11,6 +11,6 @@ public class Welcomer{
 		return "YEah, gold";
 	}
 	public String sayAny(){
-		return "Hello, Hunter";
+		return "Hello, hunter";
 	}
 }
